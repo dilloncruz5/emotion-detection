@@ -1,4 +1,4 @@
-# Emotion-Based Entertainment Recommender
+<img width="1890" height="915" alt="Screenshot 2025-09-17 175355" src="https://github.com/user-attachments/assets/f44ca3c8-6a04-487b-b584-3f38d5dca48f" /># Emotion-Based Entertainment Recommender
 
 An interactive web application that leverages **facial emotion detection** to personalize entertainment recommendations.  
 By analyzing real-time expressions, the system customizes content—such as **music, movies, or games**—to match the user’s mood, creating a fun and engaging experience.  
@@ -12,10 +12,14 @@ By analyzing real-time expressions, the system customizes content—such as **mu
 - ⚡ **Adaptive recommendations** that change with your mood  
 
 ---
+
 # Preview
 
+<img width="1885" height="912" alt="image" src="https://github.com/user-attachments/assets/1c212e9a-f842-40e6-b330-b6bae43330d0" />
 
+---
 
+<img width="1884" height="892" alt="Screenshot 2025-09-17 175415" src="https://github.com/user-attachments/assets/77d79616-c405-4052-8bea-08e435b8e7af" />
 
 ## 🛠️ Tech Stack
 - **Frontend**: React.js, HTML5, CSS3  
