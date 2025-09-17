@@ -1,4 +1,4 @@
-<img width="1890" height="915" alt="Screenshot 2025-09-17 175355" src="https://github.com/user-attachments/assets/f44ca3c8-6a04-487b-b584-3f38d5dca48f" /># Emotion-Based Entertainment Recommender
+# Emotion-Based Entertainment Recommender
 
 An interactive web application that leverages **facial emotion detection** to personalize entertainment recommendations.  
 By analyzing real-time expressions, the system customizes content—such as **music, movies, or games**—to match the user’s mood, creating a fun and engaging experience.  
